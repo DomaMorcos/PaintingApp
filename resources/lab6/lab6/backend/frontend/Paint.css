@@ -1,0 +1,31 @@
+.root {
+    -fx-background-color: #effc87;
+}
+Button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+    -fx-font-size: 20px;
+}
+
+#shapesBox {
+    -fx-alignment: top-center;
+    -fx-spacing: 100px;
+    -fx-padding: 20 20 0 0;
+}
+
+#Options{
+    -fx-alignment: bottom-left;
+    -fx-spacing: 50px;
+    -fx-padding: 0 0 200 20;
+
+}
+
+
+
+
+/*#canvasPane{
+    -fx-alignment: center;
+    -fx-background-color: Red;
+    -fx-padding:20px 20px 20px 20px;
+}*/

@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: #effc87;
+    -fx-alignment: center;
+    -fx-spacing: 40px;
+}
+
+Button{
+    -fx-text-fill: White;
+    -fx-background-color: Red;
+}
+
